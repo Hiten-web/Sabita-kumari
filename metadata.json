@@ -1,0 +1,6 @@
+{
+  "name": "Global Real Estate Wholesalers",
+  "description": "Institutional-Grade Real Estate Wholesaling & Contract Assignments",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
